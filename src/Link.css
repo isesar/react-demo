@@ -1,0 +1,38 @@
+
+.row{
+  
+  /* align-items items in column */
+  /* center items horizontally */
+   align-items: center;
+ /* center items vertically */
+  justify-content: center; 
+
+
+  }
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+a{
+  text-decoration: none;
+  width: max-content;
+  height: max-content;
+  display: inline;
+
+}
+.abutton{
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  columns: #333333;
+  padding:20px 60px 20px 60px;
+  border-top: 1px solid #cccccc;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #cccccc;
+  margin: 10px;
+}
+.abutton:hover{
+  background-color: #555;
+}
