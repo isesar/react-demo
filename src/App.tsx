@@ -11,7 +11,7 @@ const App = () => {
       <div className="main">
         <Link URL="https://azure.microsoft.com/en-gb/" name="Azure"></Link>
         <Link
-          URL="https://fintech-alliance.com/community-hub/profile/theta-trading-technologies/53"
+          URL="https://theta.trading"
           name="THETA"
         ></Link>
       </div>
