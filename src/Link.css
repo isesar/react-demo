@@ -19,7 +19,7 @@ a{
   width: max-content;
   height: max-content;
   display: inline;
-
+  color:black;
 }
 .abutton{
   font: bold 11px Arial;
